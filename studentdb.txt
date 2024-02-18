@@ -1,0 +1,6 @@
+1003,Gwayne Colaste,gcolaste@gmail.com,20,BSIT
+20111,Hero Aguaviva,heroaguaviva@gmail.com,19,BSEE
+1200,Harvie Torres,htorres@gmail.com,19,BSCE
+120100,Harvie Torres,htorres@gmail.com,19,BSCE
+10987,Khen Version,kverson@gmail.com,19,BSEE
+103787,Bea Bacolanta,beabacolanta@gmail.com,20,BSIT
